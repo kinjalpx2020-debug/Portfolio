@@ -102,10 +102,11 @@ export const portfolioData = {
     ]
   },
   tools: [
+    "Microsoft Office Suite",
     "Grammarly Premium",
-    "Hemingway App",
+    "AI Agents",
     "Surfer SEO",
-    "Ahrefs / SEMrush",
+    "SEMrush",
     "WordPress",
     "Google Docs / Notion"
   ]
