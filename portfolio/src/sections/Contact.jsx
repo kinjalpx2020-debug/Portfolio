@@ -37,7 +37,7 @@ export default function Contact() {
           const subject = encodeURIComponent(`Portfolio Contact from ${name}`);
           const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`);
           
-          window.location.href = `mailto:shreya@example.com?subject=${subject}&body=${body}`;
+          window.location.href = `mailto:meshreyaghosh48.com?subject=${subject}&body=${body}`;
         }}>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="flex flex-col gap-2">

@@ -12,7 +12,7 @@ export default function Articles() {
   return (
     <section id="works" className="py-20 md:py-32 px-6 max-w-6xl mx-auto">
       <div className="mb-16 md:mb-20">
-        <h2 className="text-4xl md:text-5xl font-display font-bold mb-4 tracking-tight">Published Works.</h2>
+        <h2 className="text-4xl md:text-5xl font-display font-bold mb-4 tracking-tight">Hot Published Works.</h2>
         <div className="w-20 h-1 bg-acid rounded-full"></div>
       </div>
       

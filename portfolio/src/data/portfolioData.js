@@ -6,7 +6,7 @@ export const portfolioData = {
     ctaPrimary: "Let's Create Magic",
     ctaSecondary: "View My Work",
     ctaCV: "Download CV",
-    cvLink: "/Shreya_Ghosh_CV.pdf"
+    cvLink: "/Shreya_Ghosh-CV.pdf"
   },
   metrics: [
     { value: "2+", label: "Years of Magic" },
@@ -52,52 +52,61 @@ export const portfolioData = {
     }
   ],
   publishedWorks: {
-    articles: [
-      {
-        id: 1,
-        title: "The Evolution of Sustainable Fashion",
-        description: "An in-depth look at how eco-conscious materials are reshaping the modern runway.",
-        link: "#",
-        date: "May 2024"
-      },
-      {
-        id: 2,
-        title: "Mindfulness in the Digital Age",
-        description: "A deep dive into why millennials and Gen Z are prioritizing digital detoxes and holistic wellness.",
-        link: "#",
-        date: "Feb 2024"
-      }
-    ],
     blogs: [
       {
         id: 3,
-        title: "Navigating the Future of Digital Payments",
-        description: "Breaking down the digital payment revolution and what it means for everyday users in plain English.",
-        link: "#",
-        date: "March 2024"
+        title: "Take Control of Your Health: Managing Herpes Simplex Virus in Mozambique",
+        description: "This blog outlines how early diagnosis, antiviral medications, lifestyle management, and supportive care help patients in Mozambique effectively manage Herpes Simplex Virus (HSV) and lead confident lives.",
+        link: "https://www.bhagwatiayurved.com/treatment-of-herpes-simplex-virus-in-mozambique.php",
+        date: "16th March 2026"
       },
       {
         id: 4,
-        title: "The Ultimate Guide to Remote Work",
-        description: "How to stay productive, maintain work-life balance, and thrive while working from anywhere.",
-        link: "#",
-        date: "Jan 2024"
+        title: "One Way Cab in Jodhpur",
+        description: "This blog post provides a comprehensive guide for travelers seeking one-way cab services in Jodhpur, highlighting the convenience, cost-effectiveness, and scenic routes available for tourists exploring the city.",
+        link: "https://cartoursjodhpur.com/blogs/one-way-cab-in-jodhpur",
+        date: "6th January 2024"
+      },
+      {
+        id: 2,
+        title: "Top 7 Moissanite Engagement Ring Cuts Explained for Maximum Sparkle",
+        description: "This blog explores the top 7 moissanite engagement ring cuts, detailing their unique characteristics, brilliance, and how to choose the perfect cut for maximum sparkle and personal style.",
+        link: "https://usaicedout.com/blogs/jewelry/top-moissanite-engagement-ring-cuts-explained",
+        date: "8th April 2026"
       }
     ],
+    articles: [
+      {
+        id: 1,
+        title: "Top 10 IT companies in Aurangabad",
+        description: "Aurangabad is a historic city rapidly transforming into a thriving technology hub driven by innovative IT companies and startups.",
+        link: "https://www.helpingcontent.com/top-10-it-companies-in-aurangabad/",
+        date: "20th April 2026 "
+      },
+      {
+        id: 2,
+        title: "How Long Does a Loan Default Stay on Your CIBIL Report?",
+        description: "A detailed look at the duration for which a loan default remains on your CIBIL credit report and its impact on your financial health.",
+        link: "https://blog.vintagefinance.in/2026/06/19/how-long-does-a-loan-default-stay-on-your-cibil-report/",
+        date: "19th June 2026"
+      }
+      
+    ],
+    
     websiteCopy: [
       {
         id: 5,
-        title: "Holistic Wellness Landing Page",
-        description: "High-converting homepage copy for a fast-growing wellness startup.",
-        link: "#",
-        date: "April 2024"
+        title: "Mezzanine Floor Services Sydney",
+        description: "This website copy highlights the benefits of mezzanine floor services in Sydney, showcasing how businesses can maximize their space and improve operational efficiency with professional mezzanine solutions.",
+        link: "https://www.mezzaninefloorsydney.com.au/mezzanine-floor-services/",
+        date: "June 2026"
       },
       {
         id: 6,
-        title: "B2B SaaS Product Descriptions",
-        description: "Benefit-driven feature descriptions and use cases for an enterprise software platform.",
-        link: "#",
-        date: "June 2024"
+        title: " Flight Crust - About Us Page",
+        description: "This website copy provides an engaging and informative 'About Us' page for Flight Crust, detailing the company's mission, values, and commitment to delivering exceptional travel experiences to its customers.",
+        link: "https://flightcrust.com/about-us/",
+        date: "May 2026"
       }
     ]
   },
