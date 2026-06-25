@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "shreyaghosh-writer",
+  "compatibility_date": "2026-06-25",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "portfolio"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
